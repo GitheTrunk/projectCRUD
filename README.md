@@ -37,3 +37,7 @@ Install Packages
 - Pull-to-refresh
 - Loading indicators and error handling
 
+## 📸 Screenshots 
+
+<img width="1512" height="982" alt="Screenshot 2025-07-15 at 10 20 50 at night" src="https://github.com/user-attachments/assets/c0bca04b-4a23-4783-a01d-9cb990de57d1" />
+<img width="1512" height="982" alt="Screenshot 2025-07-15 at 10 21 22 at night" src="https://github.com/user-attachments/assets/a374f4d9-6056-4d35-8e18-ea1315b61a1d" />
